@@ -1,6 +1,6 @@
 /* Welcome to my page
---> This project secure's the webpage by adding a layer of authentication of security. It ask the user to input username and password. 
-    If the credential's are correct it redirect's to the desired page.
+--> This project secures the webpage by adding a layer of authentication. It asks the user to input a username and password. 
+    If the credentials are correct it redirects to the desired page.
 --> Install Express package using <npm install express>
 --. Install Body-Parser package using <npm install body-parser>
 */
